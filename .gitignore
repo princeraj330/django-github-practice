@@ -1,0 +1,5 @@
+env/          #Ignore the virtual environment folder
+__pycache__/   #Ignore python cache files 
+*.pyc          #Ignore compiled python files
+db.sqlite3     #Ignore the local django database file
+.vscode/       #Ignore Visual Studio Code settings folder
